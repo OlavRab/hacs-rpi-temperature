@@ -1,5 +1,5 @@
 {
-  "domain": "raspberrypi",
+  "domain": "rpitemp",
   "name": "Raspberry pi CPU temperature monitor",
   "version": "v0.01",
   "iot_class": "local_push",
