@@ -1,4 +1,4 @@
-# Home Assistant RPI-Temperature Component
+# Home Assistant RPI-Temperature Sensor
 Custom HACS component which creates a sensor that shows the current temperature of your raspberry pi.
 
 Currently, the following Raspbery pi devices are supported:
