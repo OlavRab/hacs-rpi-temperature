@@ -1,0 +1,11 @@
+{
+  "domain": "raspberrypi",
+  "name": "Raspberry pi CPU temperature monitor",
+  "version": "v0.01",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/OlavRab/hacs-rpi-temperature/issues",
+  "documentation": "https://github.com/OlavRab/hacs-rpi-temperature/blob/main/README.md",
+  "dependencies": [],
+  "codeowners": ["@OlavRab],
+  "requirements": []
+}
